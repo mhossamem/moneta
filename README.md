@@ -1,1 +1,3 @@
-# moneta
+## Moneta
+
+Moneta is a currency
